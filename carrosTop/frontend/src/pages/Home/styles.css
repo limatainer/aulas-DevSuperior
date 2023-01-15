@@ -1,0 +1,61 @@
+.home-container {
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  margin-left: 25vh;
+}
+
+.car-box {
+  background: #00285F;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-radius: 10px;
+  margin-top: 30px;
+  padding-left: 10px;
+  width: 150vh;
+}
+
+.descritivo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  padding: 10px 50px 50px 10px;
+}
+
+.descritivo h1 {
+  color: #fff;
+  width: 260px;
+  font-size: 2em;
+  margin-bottom: 15px;
+}
+
+.descritivo p {
+  color: #fff;
+  width: 260px;
+  font-size: 0.6em;
+  margin-bottom: 30px;
+}
+
+.home-image-container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button-box {
+  background: #ddddf8;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-radius: 10px;
+  margin-top: 30px;
+  padding-left: 10px;
+  width: 150vh;
+  height: 123px;
+}
+
+.dentro {
+  padding-top: 50px;
+}
